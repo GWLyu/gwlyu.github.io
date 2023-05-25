@@ -6,7 +6,7 @@
  * Themes
  ******************************************************************************/
 :root {
-  --global-bg-color: #b2beb5;
+  --global-bg-color: #dcdcdc;
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
   --global-text-color: #000000;
   --global-text-color-light: #828282;
@@ -17,7 +17,7 @@
   --global-footer-text-color: #e8e8e8;
   --global-footer-link-color: #ffffff;
   --global-distill-app-color: #828282;
-  --global-divider-color: rgba(0,0,1,.1);
+  --global-divider-color: #b2beb5;
   --global-card-bg-color: #ffffff;
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
