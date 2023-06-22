@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: A Boya Fellow Works on Gravitational Wave Astrophysics at <a href="https://kiaa.pku.edu.cn/info/1014/8615.htm">KIAA-PKU</a>. Email:zwlyu@pku.edu.cn 
+subtitle: A Boya Fellow Works on Gravitational Wave Astrophysics with Prof. Shao at <a href="https://kiaa.pku.edu.cn/info/1014/8615.htm">KIAA-PKU</a>. Email:zwlyu@pku.edu.cn 
 
 profile:
   align: right
