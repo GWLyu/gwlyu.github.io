@@ -22,7 +22,8 @@ social: true  # includes social icons at the bottom of the page
 <br/><br/>
 
 #### Academic interests: 
-My current research interest mainly focuses on gravitational wave astrophysics, with strong connection to gravitational wave observations.
+My current research interest mainly focuses on gravitational wave astrophysics, with strong connection to gravitational wave observations. 
+
 
 
 <!--- The objective is to unravel physics buried within the data, include but not limited to: finite size effects of neutron stars (tidal effect, spin induced quadrupole moment, Quasi Normal Modes (QNMs), etc.), any other potential effects within Einstein general relativity and beyond theories, formation channels and merger rates of compact objects (stellar mass and Extreme Mass Ratio Inspirals (EMRIs)), implementations of gravitational waves in measuring Hubble parameter, dark matter and dark energy in the consmology. -->
