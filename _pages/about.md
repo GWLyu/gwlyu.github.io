@@ -22,6 +22,7 @@ social: true  # includes social icons at the bottom of the page
 <br/><br/>
 
 #### Academic interests: 
+
 My current research interest mainly focuses on gravitational wave astrophysics, with strong connection to gravitational wave observations. 
 
 
