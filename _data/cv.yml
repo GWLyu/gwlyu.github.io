@@ -8,7 +8,7 @@
   type: time_table
   contents:
     - title: Boya Fellow
-      institution: Kavli Institute for Astronomy and Astrophysics, Peking University, China
+      institution: Kavli Institute for Astronomy and Astrophysics, Peking University, Beijing, China
       year: 2022 - 2024
       
       
@@ -16,7 +16,7 @@
   type: time_table
   contents:
     - title: Ph.D.
-      institution: Department of Physics, University of Guelph, Guelph, Canada
+      institution: Department of Physics, University of Guelph, Guelph, Ontario, Canada
       year: 2018 - 2022
 #       description:
 #         - Description 1.
