@@ -5,7 +5,7 @@
 #       value: Zhenwei Lyu
 
 - title: Experience
-  type: map
+  type: time_table
   contents:
     - title: Boya Fellow
       institution: Kavli Institute for Astronomy and Astrophysics, Peking University, Beijing, China
@@ -13,7 +13,7 @@
       
       
 - title: Education
-  type: nested_list
+  type: time_table
   contents:
     - title: Ph. D.
       institution: Department of Physics, University of Guelph, Guelph, Ontario, Canada
