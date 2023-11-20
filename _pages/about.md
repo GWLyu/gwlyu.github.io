@@ -25,6 +25,7 @@ social: true  # includes social icons at the bottom of the page
 
 My current research interest mainly focuses on gravitational wave astrophysics, with strong connection to gravitational wave observations. 
 
+For more details, please see <a href="https://inspirehep.net/authors/1916556?ui-citation-summary=true">Inspire</a> and <a href="https://orcid.org/0000-0002-0151-3794">ORCID</a>.
 
 
 
