@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Boya Fellow at Peking University. Email: zwlyu@pku.edu.cn.
+subtitle: Boya Fellow at Peking University. Email: zwlyu@pku.edu.cn
 
 
 profile:
