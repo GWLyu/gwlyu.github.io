@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Boya Fellow at Peking University. Email: zwlyu@pku.edu.cn
+subtitle: Boya Fellow at Peking University.
 
 
 profile:
@@ -26,7 +26,7 @@ social: true  # includes social icons at the bottom of the page
 
 My current research interest primarily focuses on gravitational wave astrophysics, closely aligned with gravitational wave observations, collaborating with Prof. Shao at <a href="https://kiaa.pku.edu.cn/index.htm">KIAA-PKU</a>.
 
-For additional details, please refer to the following links: <a href="https://inspirehep.net/authors/1916556?ui-citation-summary=true">INSPIRE</a> and <a href="https://orcid.org/0000-0002-0151-3794">ORCID</a>.
+For additional details, please refer to the following links: <a href="https://inspirehep.net/authors/1916556?ui-citation-summary=true">INSPIRE</a> and <a href="https://orcid.org/0000-0002-0151-3794">ORCID</a>. Contact: zwlyu@pku.edu.cn
 
 
 
