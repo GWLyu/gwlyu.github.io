@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Boya Fellow at Peking University.
+subtitle: Boya Fellow at Peking University
 
 
 profile:
