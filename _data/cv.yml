@@ -5,17 +5,17 @@
 #       value: Zhenwei Lyu
 
 - title: Experience
-  type: time_table
+  type: map
   contents:
     - title: Boya Fellow
       institution: Kavli Institute for Astronomy and Astrophysics, Peking University, Beijing, China
-      year: 2022 - 2024
+      year: 2022 - present
       
       
 - title: Education
-  type: time_table
+  type: nested_list
   contents:
-    - title: Ph.D.
+    - title: Ph. D.
       institution: Department of Physics, University of Guelph, Guelph, Ontario, Canada
       year: 2018 - 2022
 #       description:
@@ -25,13 +25,13 @@
 #           contents:
 #             - Sub-description 1.
 #             - Sub-description 2.
-    - title: M.Sc 
+    - title: M. Sc.
       institution: Department of Astronomy, Beijing Normal University, Beijing, China
       year: 2015 - 2018
 #       description:
 #         - Description 1.
 #         - Description 2.
-    - title: B.Sc
+    - title: B. Sc.
       institution: Department of Physics, Harbin Institute of Technology, Harbin, China
       year: 2011 - 2015
 
