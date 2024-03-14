@@ -7,7 +7,7 @@ subtitle: Boya Postdoctoral Fellow at Peking University
 
 profile:
   align: right
-  image: pic_lyu.jpg
+  image: pic_lyu.png
 <!--   image_circular: false # crops the image to make it circular -->
 <!--   address: >
     <p>Kavli Institute for Astronomy and Astrophysics, Peking University</p>
