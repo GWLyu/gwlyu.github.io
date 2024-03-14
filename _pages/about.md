@@ -10,9 +10,9 @@ profile:
   image: pic_lyu.jpg
 <!--   image_circular: false # crops the image to make it circular -->
   address: >
-    <p> Kavli Institute for Astronomy and Astrophysics, Peking University, </p>
-    <p> 5 Yiheyuan Road, Haidian District, </p>
-    <p> Beijing, P. R. China,  100871 </p>
+    <p>Kavli Institute for Astronomy and Astrophysics, Peking University</p>
+    <p>5 Yiheyuan Road, Haidian District</p>
+    <p>Beijing, P. R. China,  100871</p>
 
 <!-- news: true  # includes a list of news items -->
 <!-- latest_posts: true  # includes a list of the newest posts -->
